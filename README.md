@@ -14,6 +14,14 @@ A command-line tool to search for top YouTube videos or find competitors in your
 
 ## Setup
 
+Clone the repository
+1. Create a folder where you want it to go (eg. YouTube folder)
+2. Navigate to that folder in Powershell (cd YouTube)
+3. Git clone the repo:
+```
+git clone https://github.com/KenKaiii/youtube
+```
+
 ### Automatic Setup (Recommended)
 
 #### On Linux/macOS:
