@@ -24,7 +24,7 @@ chmod +x setup.sh
 
 #### On Windows:
 ```
-setup.bat
+.\setup.bat
 ```
 
 The setup script will:
@@ -69,6 +69,11 @@ If you prefer to set up manually:
 
 ### Main Tool
 
+Activate the virtual environment
+
+```
+venv\Scripts\activate
+```
 Run the main tool using Python:
 
 ```
