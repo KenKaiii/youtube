@@ -2,6 +2,9 @@
 
 A command-line tool to search for top YouTube videos or find competitors in your niche.
 
+> [!TIP]
+> **Want to build your own apps with AI?** A free 7-day build challenge and 20+ step-by-step projects are in my free community: **[skool.com/raid](https://www.skool.com/raid)**
+
 ## Features
 
 - Search for top videos based on a keyword and time range (last 7 or 30 days)
